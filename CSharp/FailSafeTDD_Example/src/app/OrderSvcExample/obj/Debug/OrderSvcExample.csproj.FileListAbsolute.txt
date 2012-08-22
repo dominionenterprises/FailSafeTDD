@@ -1,0 +1,15 @@
+C:\_GH\TDDSamples\CSharp\FailSafeTDD_Example\src\app\OrderSvcExample\obj\Debug\OrderSvcExample.csprojResolveAssemblyReference.cache
+C:\_GH\TDDSamples\CSharp\FailSafeTDD_Example\src\app\OrderSvcExample\bin\OrderSvcExample.dll
+C:\_GH\TDDSamples\CSharp\FailSafeTDD_Example\src\app\OrderSvcExample\bin\OrderSvcExample.pdb
+C:\_GH\TDDSamples\CSharp\FailSafeTDD_Example\src\app\OrderSvcExample\bin\DataModels.dll
+C:\_GH\TDDSamples\CSharp\FailSafeTDD_Example\src\app\OrderSvcExample\bin\DataModelsRepoSql08.dll
+C:\_GH\TDDSamples\CSharp\FailSafeTDD_Example\src\app\OrderSvcExample\bin\IDataModelsRepo.dll
+C:\_GH\TDDSamples\CSharp\FailSafeTDD_Example\src\app\OrderSvcExample\bin\IProcessOrders.dll
+C:\_GH\TDDSamples\CSharp\FailSafeTDD_Example\src\app\OrderSvcExample\bin\OrdersLogic.dll
+C:\_GH\TDDSamples\CSharp\FailSafeTDD_Example\src\app\OrderSvcExample\bin\DataModelsRepoSql08.pdb
+C:\_GH\TDDSamples\CSharp\FailSafeTDD_Example\src\app\OrderSvcExample\bin\DataModels.pdb
+C:\_GH\TDDSamples\CSharp\FailSafeTDD_Example\src\app\OrderSvcExample\bin\IDataModelsRepo.pdb
+C:\_GH\TDDSamples\CSharp\FailSafeTDD_Example\src\app\OrderSvcExample\bin\IProcessOrders.pdb
+C:\_GH\TDDSamples\CSharp\FailSafeTDD_Example\src\app\OrderSvcExample\bin\OrdersLogic.pdb
+C:\_GH\TDDSamples\CSharp\FailSafeTDD_Example\src\app\OrderSvcExample\obj\Debug\OrderSvcExample.dll
+C:\_GH\TDDSamples\CSharp\FailSafeTDD_Example\src\app\OrderSvcExample\obj\Debug\OrderSvcExample.pdb

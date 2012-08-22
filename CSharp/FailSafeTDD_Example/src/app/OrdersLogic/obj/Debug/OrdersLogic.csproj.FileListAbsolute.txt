@@ -1,0 +1,5 @@
+C:\_GH\TDDSamples\CSharp\FailSafeTDD_Example\src\app\OrdersLogic\bin\Debug\OrdersLogic.dll
+C:\_GH\TDDSamples\CSharp\FailSafeTDD_Example\src\app\OrdersLogic\bin\Debug\OrdersLogic.pdb
+C:\_GH\TDDSamples\CSharp\FailSafeTDD_Example\src\app\OrdersLogic\obj\Debug\OrdersLogic.csprojResolveAssemblyReference.cache
+C:\_GH\TDDSamples\CSharp\FailSafeTDD_Example\src\app\OrdersLogic\obj\Debug\OrdersLogic.dll
+C:\_GH\TDDSamples\CSharp\FailSafeTDD_Example\src\app\OrdersLogic\obj\Debug\OrdersLogic.pdb

@@ -1,0 +1,9 @@
+C:\_GH\TDDSamples\CSharp\FailSafeTDD_Example\src\app\DataModelsRepoSql08\bin\Debug\DataModelsRepoSql08.dll
+C:\_GH\TDDSamples\CSharp\FailSafeTDD_Example\src\app\DataModelsRepoSql08\bin\Debug\DataModelsRepoSql08.pdb
+C:\_GH\TDDSamples\CSharp\FailSafeTDD_Example\src\app\DataModelsRepoSql08\bin\Debug\DataModels.dll
+C:\_GH\TDDSamples\CSharp\FailSafeTDD_Example\src\app\DataModelsRepoSql08\bin\Debug\IDataModelsRepo.dll
+C:\_GH\TDDSamples\CSharp\FailSafeTDD_Example\src\app\DataModelsRepoSql08\bin\Debug\DataModels.pdb
+C:\_GH\TDDSamples\CSharp\FailSafeTDD_Example\src\app\DataModelsRepoSql08\bin\Debug\IDataModelsRepo.pdb
+C:\_GH\TDDSamples\CSharp\FailSafeTDD_Example\src\app\DataModelsRepoSql08\obj\Debug\DataModelsRepoSql08.csprojResolveAssemblyReference.cache
+C:\_GH\TDDSamples\CSharp\FailSafeTDD_Example\src\app\DataModelsRepoSql08\obj\Debug\DataModelsRepoSql08.dll
+C:\_GH\TDDSamples\CSharp\FailSafeTDD_Example\src\app\DataModelsRepoSql08\obj\Debug\DataModelsRepoSql08.pdb

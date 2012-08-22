@@ -1,0 +1,7 @@
+C:\_GH\TDDSamples\CSharp\FailSafeTDD_Example\src\app\IProcessOrders\bin\Debug\IProcessOrders.dll
+C:\_GH\TDDSamples\CSharp\FailSafeTDD_Example\src\app\IProcessOrders\bin\Debug\IProcessOrders.pdb
+C:\_GH\TDDSamples\CSharp\FailSafeTDD_Example\src\app\IProcessOrders\bin\Debug\DataModels.dll
+C:\_GH\TDDSamples\CSharp\FailSafeTDD_Example\src\app\IProcessOrders\bin\Debug\DataModels.pdb
+C:\_GH\TDDSamples\CSharp\FailSafeTDD_Example\src\app\IProcessOrders\obj\Debug\IProcessOrders.csprojResolveAssemblyReference.cache
+C:\_GH\TDDSamples\CSharp\FailSafeTDD_Example\src\app\IProcessOrders\obj\Debug\IProcessOrders.dll
+C:\_GH\TDDSamples\CSharp\FailSafeTDD_Example\src\app\IProcessOrders\obj\Debug\IProcessOrders.pdb

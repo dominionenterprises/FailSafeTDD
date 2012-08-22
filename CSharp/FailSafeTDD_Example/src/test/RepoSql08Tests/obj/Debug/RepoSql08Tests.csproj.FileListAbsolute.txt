@@ -1,0 +1,5 @@
+C:\_GH\TDDSamples\CSharp\FailSafeTDD_Example\src\test\RepoSql08Tests\bin\Debug\RepoSql08Tests.dll
+C:\_GH\TDDSamples\CSharp\FailSafeTDD_Example\src\test\RepoSql08Tests\bin\Debug\RepoSql08Tests.pdb
+C:\_GH\TDDSamples\CSharp\FailSafeTDD_Example\src\test\RepoSql08Tests\obj\Debug\RepoSql08Tests.csprojResolveAssemblyReference.cache
+C:\_GH\TDDSamples\CSharp\FailSafeTDD_Example\src\test\RepoSql08Tests\obj\Debug\RepoSql08Tests.dll
+C:\_GH\TDDSamples\CSharp\FailSafeTDD_Example\src\test\RepoSql08Tests\obj\Debug\RepoSql08Tests.pdb

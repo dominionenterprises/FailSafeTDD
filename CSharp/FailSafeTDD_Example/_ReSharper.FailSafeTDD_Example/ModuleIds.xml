@@ -1,0 +1,11 @@
+<Modules>
+  <Module PersistentId="EEDB3152-041E-45A3-85FF-BA78B88E71B2" ModuleId="FailSafeTDD_Example" />
+  <Module PersistentId="A52C1AB0-9031-4EB8-99DA-774B76CADC06" ModuleId="OrderSvcExample" />
+  <Module PersistentId="9F619E54-E56A-4D3E-8288-8BF5E6909319" ModuleId="DataModels" />
+  <Module PersistentId="F5C95ABC-0EDE-4CB6-A00C-E90B42AA2EF8" ModuleId="DataModelsRepoSql08" />
+  <Module PersistentId="5DAFE756-2B1C-4548-9423-6D97C9941E9A" ModuleId="IDataModelsRepo" />
+  <Module PersistentId="F88B6EF2-08A2-46A6-B3E3-0E08EE76CA74" ModuleId="IProcessOrders" />
+  <Module PersistentId="6BF12280-A4F6-4780-9FCF-91ED79B0FFD9" ModuleId="OrdersLogic" />
+  <Module PersistentId="4CEFF16F-4657-4B12-9E77-D64B946F2DEF" ModuleId="OrderSvcTests" />
+  <Module PersistentId="0623189A-508A-4B8C-8C76-E429362B8DA3" ModuleId="RepoSql08Tests" />
+</Modules>

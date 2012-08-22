@@ -1,0 +1,7 @@
+C:\_GH\TDDSamples\CSharp\FailSafeTDD_Example\src\app\IDataModelsRepo\bin\Debug\IDataModelsRepo.dll
+C:\_GH\TDDSamples\CSharp\FailSafeTDD_Example\src\app\IDataModelsRepo\bin\Debug\IDataModelsRepo.pdb
+C:\_GH\TDDSamples\CSharp\FailSafeTDD_Example\src\app\IDataModelsRepo\bin\Debug\DataModels.dll
+C:\_GH\TDDSamples\CSharp\FailSafeTDD_Example\src\app\IDataModelsRepo\bin\Debug\DataModels.pdb
+C:\_GH\TDDSamples\CSharp\FailSafeTDD_Example\src\app\IDataModelsRepo\obj\Debug\IDataModelsRepo.csprojResolveAssemblyReference.cache
+C:\_GH\TDDSamples\CSharp\FailSafeTDD_Example\src\app\IDataModelsRepo\obj\Debug\IDataModelsRepo.dll
+C:\_GH\TDDSamples\CSharp\FailSafeTDD_Example\src\app\IDataModelsRepo\obj\Debug\IDataModelsRepo.pdb
